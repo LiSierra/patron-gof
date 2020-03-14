@@ -4,7 +4,7 @@ _Es un programa que contiene la implementación deL patrón builder, en un progr
 
 ## Comenzando 🚀
 
-_Clone el repositorio con el comando: git clone https://github.com/LiSierra/patron-gof/
+_Clone el repositorio con el comando: git clone https://github.com/LiSierra/patron-gof.git
 
 
 ### Pre-requisitos 📋
